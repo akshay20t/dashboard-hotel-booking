@@ -1,2 +1,2 @@
 # dashboard-hotel-booking
-Dash Dashboard
+Python dashboard hosted at https://dashboard-hotel-booking.herokuapp.com/
